@@ -1,4 +1,4 @@
 # GoogleClon
 GoogleClon made in Html and Css
-![imagen](https://user-images.githubusercontent.com/105248330/174481125-1c308d9b-3356-481e-a0bb-fe9b40ac80c0.png)
+![imagen](https://user-images.githubusercontent.com/105248330/174481173-02c4f928-4314-4f84-a2ed-1233ed3dbd6e.png)
 https://juaniglobo.github.io/GoogleClon/
